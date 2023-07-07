@@ -8,17 +8,11 @@ l’origine ethnique etc.
 
 Le travail s’est fait en en 3 parties :
 
-    • Dans un premier temps il s’agit de charger le set de données et de le parcourir pour le
-  connaître et avoir une idée de comment l’exploiter. On va également s’occuper de traiter le
-  set de données pour que celles-ci soient exploitable par le modèle (traitement des valeurs
-  absentes et aberrantes, etc).
+  Dans un premier temps il s’agit de charger le set de données et de le parcourir pour le connaître et avoir une idée de comment l’exploiter. On va également s’occuper de traiter le set de données pour que celles-ci soient exploitable par le modèle (traitement des valeurs absentes et aberrantes, etc).
   
-    • On va par la suite diviser le set de données en 2 groupes : Le groupe de données
-  d’entraînement et le groupe de données test.( en utilisant la methode de l’ACP).
+   On va par la suite diviser le set de données en 2 groupes : Le groupe de données d’entraînement et le groupe de données test.( en utilisant la methode de l’ACP).
   
-    • Enfin on a construit le modèle prévisionnel et on l'a testé pour voir si il est efficace.
-  On cherche à avoir à terme un algorithme dont l’objectif est de deviner l’état de santé d’un
-  patient automatiquement.
+   Enfin on a construit le modèle prévisionnel et on l'a testé pour voir si il est efficace. On cherche à avoir à terme un algorithme dont l’objectif est de deviner l’état de santé d’un patient automatiquement.
   
 Chargement/Traitement des données:
 
