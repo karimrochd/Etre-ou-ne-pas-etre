@@ -1,4 +1,4 @@
-# Etre-ou-ne-pas-etre
+# Être ou ne pas être
 
 Dans ce projet on nous propose de construire un modèle d’apprentissage supervisé qu’on utilisera
 pour faire des prédictions sur le décès ou pas des patients d’un hôpital.
